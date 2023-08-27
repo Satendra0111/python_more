@@ -1,0 +1,6 @@
+Name Department Salary
+Rahul IT Domain 20000
+satendra Applictaion 20000
+abhishek produt 30000
+sumit app 40000
+sam app 30
